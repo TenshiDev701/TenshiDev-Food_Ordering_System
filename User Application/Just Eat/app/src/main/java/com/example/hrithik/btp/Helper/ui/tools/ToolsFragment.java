@@ -34,3 +34,5 @@ public class ToolsFragment extends Fragment {
     }
 }
 // [ai:2026-07-29] // TODO: Check for network state before API calls
+
+// [ai:2026-07-29] Fix the null check in loadData() method
