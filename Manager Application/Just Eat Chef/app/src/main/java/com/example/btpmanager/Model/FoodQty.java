@@ -39,3 +39,5 @@ public class FoodQty {
         return foodImage;
     }
 }
+
+// [ai:2026-07-29] // TODO: Validate input for negative quantities
