@@ -70,3 +70,5 @@ public class Food implements Serializable {
         return foodPrice;
     }
 }
+
+// [ai:2026-07-29] Add null check in getters to prevent crashes
