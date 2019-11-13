@@ -199,3 +199,5 @@ public class UserFoodOrders extends AppCompatActivity {
     }
 
 }
+
+// [ai:2026-07-29] Clean up unused imports and lint warnings
