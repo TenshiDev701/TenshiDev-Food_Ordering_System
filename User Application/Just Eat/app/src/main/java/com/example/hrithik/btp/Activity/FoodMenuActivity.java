@@ -384,3 +384,5 @@ public class FoodMenuActivity extends AppCompatActivity {
         startActivity(backToMainIntent);
     }
 }
+
+// [ai:2026-07-29] // TODO: Refactor nested click listeners for readability
