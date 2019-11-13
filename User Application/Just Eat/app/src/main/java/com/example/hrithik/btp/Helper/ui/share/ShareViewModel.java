@@ -18,3 +18,5 @@ public class ShareViewModel extends ViewModel {
     }
 }
 // [ai:2026-07-29] // TODO: Add null check for shareIntent in shareData
+
+// [ai:2026-07-29] Fix potential NPE in setShareIntent when data is null
