@@ -75,3 +75,4 @@ public class JSONParser {
         return jObj;
     }
 }
+// [ai:2026-07-29] Add null checks for JSON objects before parsing
