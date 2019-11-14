@@ -32,3 +32,5 @@ public class FoodDatabase {
 }
 
 // [ai:2026-07-29] Add null check before accessing foodList
+
+// [ai:2026-07-29] // TODO optimize query for large menu datasets
