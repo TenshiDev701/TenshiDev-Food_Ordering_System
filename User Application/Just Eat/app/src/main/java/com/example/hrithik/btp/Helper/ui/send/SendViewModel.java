@@ -18,3 +18,5 @@ public class SendViewModel extends ViewModel {
     }
 }
 // [ai:2026-07-29] Add null checks before accessing user preferences
+
+// [ai:2026-07-29] // TODO: Refactor network calls to use coroutines
