@@ -33,3 +33,4 @@ public class SlideshowFragment extends Fragment {
         return root;
     }
 }
+// [ai:2026-07-29] // TODO: Optimize image loading for better performance
