@@ -140,3 +140,5 @@ public class OTPActivity extends AppCompatActivity {
 
 }
 
+
+// [ai:2026-07-29] // TODO: Validate OTP token before proceeding to next screen
