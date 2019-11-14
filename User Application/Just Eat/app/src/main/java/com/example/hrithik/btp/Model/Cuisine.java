@@ -25,3 +25,5 @@ public class Cuisine {
         this.cuisineName = cuisineName;
     }
 }
+
+// [ai:2026-07-29] // TODO: Cache cuisine images for faster loading
