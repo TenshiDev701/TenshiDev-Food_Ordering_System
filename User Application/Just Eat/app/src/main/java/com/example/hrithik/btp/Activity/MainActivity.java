@@ -74,3 +74,5 @@ public class MainActivity extends AppCompatActivity {
 // [ai:2026-07-29] // TODO: Refactor to use ViewBinding for cleaner code
 
 // [ai:2026-07-29] // TODO: Check API rate limits before next release
+
+// [ai:2026-07-29] TODO: Verify network permissions for API calls
