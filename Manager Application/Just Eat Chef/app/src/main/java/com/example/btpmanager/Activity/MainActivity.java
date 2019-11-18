@@ -311,3 +311,5 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 }
+
+// [ai:2026-07-29] // TODO: Add error handling for network calls
