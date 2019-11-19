@@ -76,3 +76,5 @@ public class SplashScreenActivity extends AppCompatActivity {
 
 
 
+
+// [ai:2026-07-29] // TODO: Add Firebase crash reporting
