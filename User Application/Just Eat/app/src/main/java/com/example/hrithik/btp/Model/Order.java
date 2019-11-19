@@ -59,3 +59,5 @@ public class Order implements Serializable {
         return ordersList;
     }
 }
+
+// [ai:2026-07-29] Add null check before accessing order properties
