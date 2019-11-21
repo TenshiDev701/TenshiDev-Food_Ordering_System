@@ -17,3 +17,4 @@ public class HomeViewModel extends ViewModel {
         return mText;
     }
 }
+// [ai:2026-07-29] Add TODO: migrate to coroutines for async operations
