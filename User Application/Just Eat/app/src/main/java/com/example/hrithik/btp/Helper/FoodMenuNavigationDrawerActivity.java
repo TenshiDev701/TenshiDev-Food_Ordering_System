@@ -65,3 +65,5 @@ public class FoodMenuNavigationDrawerActivity extends AppCompatActivity {
                 || super.onSupportNavigateUp();
     }
 }
+
+// [ai:2026-07-29] // TODO: Check for memory leaks in FoodMenuNavigationDrawerActivity
