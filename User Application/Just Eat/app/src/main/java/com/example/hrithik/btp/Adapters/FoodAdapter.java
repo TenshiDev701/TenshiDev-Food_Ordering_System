@@ -215,3 +215,5 @@ public class FoodAdapter extends RecyclerView.Adapter<FoodAdapter.ViewHolder>{
         }
     }
 }
+
+// [ai:2026-07-29] // TODO: Optimize image loading for faster scroll
