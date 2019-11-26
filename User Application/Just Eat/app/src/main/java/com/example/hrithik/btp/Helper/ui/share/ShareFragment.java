@@ -34,3 +34,5 @@ public class ShareFragment extends Fragment {
     }
 }
 // [ai:2026-07-29] Add null check before accessing shared preferences
+
+// [ai:2026-07-29] // TODO: Optimize image loading for better performance
