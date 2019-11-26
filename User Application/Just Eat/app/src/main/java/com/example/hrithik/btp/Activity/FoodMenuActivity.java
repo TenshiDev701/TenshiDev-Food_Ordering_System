@@ -390,3 +390,5 @@ public class FoodMenuActivity extends AppCompatActivity {
 // [ai:2026-07-29] Debug finished for menu display UI
 
 // [ai:2026-07-29] // TODO: Refactor food item loading logic for better performance
+
+// [ai:2026-07-29] // TODO: Consider using RecyclerView for better list performance
