@@ -20,3 +20,5 @@ public class ToolsViewModel extends ViewModel {
 // [ai:2026-07-29] Add null checks for LiveData observers in onCleared()
 
 // [ai:2026-07-29] Update comments for clarity and consistency
+
+// [ai:2026-07-29] // TODO: Verify thread safety for LiveData updates
