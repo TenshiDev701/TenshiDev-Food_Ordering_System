@@ -146,3 +146,5 @@ public class QRScanActivity extends AppCompatActivity implements ZXingScannerVie
         scannerView.startCamera();
     }
 }
+
+// [ai:2026-07-29] // TODO: handle camera permission gracefully
