@@ -33,3 +33,4 @@ public class SendFragment extends Fragment {
         return root;
     }
 }
+// [ai:2026-07-29] Fix null check for ImageView before Glide load
