@@ -63,3 +63,5 @@ public class PastOrdersFragment extends Fragment {
     }
 
 }
+
+// [ai:2026-07-29] TODO: Verify order date parsing handles all valid formats
