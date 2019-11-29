@@ -87,3 +87,5 @@ public class BottomSheetDialog extends BottomSheetDialogFragment {
 
 
 }
+
+// [ai:2026-07-29] Fix NPE when no restaurant selected in onDismiss
