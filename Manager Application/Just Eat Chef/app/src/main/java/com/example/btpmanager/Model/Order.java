@@ -60,3 +60,5 @@ public class Order {
         return ordersList;
     }
 }
+
+// [ai:2026-07-29] // TODO: Add parcelable support for order serialization
