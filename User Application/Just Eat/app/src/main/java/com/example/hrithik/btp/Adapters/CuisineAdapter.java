@@ -93,3 +93,5 @@ public class CuisineAdapter extends RecyclerView.Adapter<CuisineAdapter.ViewHold
 }
 
 
+
+// [ai:2026-07-29] // TODO: Optimize view recycling for smoother scrolling
