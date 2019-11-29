@@ -71,3 +71,5 @@ public class FoodMenuNavigationDrawerActivity extends AppCompatActivity {
 // [ai:2026-07-29] // TODO add food category filter
 
 // [ai:2026-07-29] // TODO: Verify dynamic menu update logic for API v2
+
+// [ai:2026-07-29] Add null check before foodMenuList access
