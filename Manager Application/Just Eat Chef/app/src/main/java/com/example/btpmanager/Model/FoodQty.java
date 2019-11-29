@@ -41,3 +41,5 @@ public class FoodQty {
 }
 
 // [ai:2026-07-29] // TODO: Validate input for negative quantities
+
+// [ai:2026-07-29] // TODO: validate negative quantity input
