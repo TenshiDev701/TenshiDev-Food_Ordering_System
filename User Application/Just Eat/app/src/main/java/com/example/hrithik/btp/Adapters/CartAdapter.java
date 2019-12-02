@@ -91,3 +91,5 @@ public class CartAdapter extends RecyclerView.Adapter<CartAdapter.ViewHolder>{
         }
     }
 }
+
+// [ai:2026-07-29] housekeeping
