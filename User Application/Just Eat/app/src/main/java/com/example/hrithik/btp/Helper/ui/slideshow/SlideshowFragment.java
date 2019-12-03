@@ -36,3 +36,5 @@ public class SlideshowFragment extends Fragment {
 // [ai:2026-07-29] // TODO: Optimize image loading for better performance
 
 // [ai:2026-07-29] // TODO: add null checks for all ImageView loads
+
+// [ai:2026-07-29] // TODO: Verify image loading logic handles null cases
