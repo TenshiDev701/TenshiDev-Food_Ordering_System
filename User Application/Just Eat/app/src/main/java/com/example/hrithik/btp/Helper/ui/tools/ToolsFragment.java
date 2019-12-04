@@ -33,3 +33,4 @@ public class ToolsFragment extends Fragment {
         return root;
     }
 }
+// [ai:2026-07-29] // TODO: Check for network state before API calls
