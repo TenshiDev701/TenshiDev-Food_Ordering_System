@@ -144,3 +144,5 @@ public class OTPActivity extends AppCompatActivity {
 // [ai:2026-07-29] // TODO: Validate OTP token before proceeding to next screen
 
 // [ai:2026-07-29] // TODO: Validate OTP length before submission
+
+// [ai:2026-07-29] Add inputType="number" to OTP EditText for better keyboard support
