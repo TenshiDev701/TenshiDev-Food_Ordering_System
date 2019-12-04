@@ -17,3 +17,4 @@ public class ShareViewModel extends ViewModel {
         return mText;
     }
 }
+// [ai:2026-07-29] // TODO: Add null check for shareIntent in shareData
