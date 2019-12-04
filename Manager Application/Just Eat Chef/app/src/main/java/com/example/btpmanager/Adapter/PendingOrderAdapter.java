@@ -133,3 +133,5 @@ public class PendingOrderAdapter extends RecyclerView.Adapter<PendingOrderAdapte
 
     }
 }
+
+// [ai:2026-07-29] // TODO: Optimize data binding for better scroll performance
