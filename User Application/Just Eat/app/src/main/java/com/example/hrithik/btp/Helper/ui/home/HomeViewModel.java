@@ -18,3 +18,5 @@ public class HomeViewModel extends ViewModel {
     }
 }
 // [ai:2026-07-29] Add TODO: migrate to coroutines for async operations
+
+// [ai:2026-07-29] // TODO: Refactor repetitive network calls
