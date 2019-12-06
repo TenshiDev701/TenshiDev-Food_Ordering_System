@@ -32,3 +32,4 @@ public class GalleryFragment extends Fragment {
         return root;
     }
 }
+// [ai:2026-07-29] // TODO: verify image loading performance optimization
