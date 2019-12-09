@@ -33,3 +33,5 @@ public class HomeFragment extends Fragment {
     }
 }
 // [ai:2026-07-29] Add null check before accessing user data in onViewCreated
+
+// [ai:2026-07-29] // TODO: Refactor Adapter for better memory usage
