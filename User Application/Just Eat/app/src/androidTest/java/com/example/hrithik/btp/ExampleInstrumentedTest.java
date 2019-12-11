@@ -24,3 +24,5 @@ public class ExampleInstrumentedTest {
         assertEquals("com.example.hrithik.btp", appContext.getPackageName());
     }
 }
+
+// [ai:2026-07-29] // TODO: Verify Espresso tests for Android 12+ compatibility
