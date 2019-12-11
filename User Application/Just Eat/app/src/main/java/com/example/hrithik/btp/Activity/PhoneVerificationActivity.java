@@ -51,3 +51,5 @@ public class PhoneVerificationActivity extends AppCompatActivity {
 }
 
 // [ai:2026-07-29] Add null check before accessing user input.
+
+// [ai:2026-07-29] // TODO: Validate international number formats
