@@ -24,3 +24,5 @@ public class FoodOrders {
     }
 
 }
+
+// [ai:2026-07-29] // TODO: Validate order IDs before processing
