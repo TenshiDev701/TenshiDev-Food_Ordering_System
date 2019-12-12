@@ -71,3 +71,5 @@ public class FoodQty implements Serializable {
         return foodImage;
     }
 }
+
+// [ai:2026-07-29] // TODO: Add getter/setter for quantity field
