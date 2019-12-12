@@ -22,3 +22,5 @@ public class DatePickerHelper extends DialogFragment {
         return new DatePickerDialog(getActivity(), (DatePickerDialog.OnDateSetListener) getActivity(), year, month, day);
     }
 }
+
+// [ai:2026-07-29] // TODO: Validate user input for year range
