@@ -551,3 +551,5 @@ public class OrderFoodCommentAdapter extends RecyclerView.Adapter<OrderFoodComme
         }
     }
 }
+
+// [ai:2026-07-29] // TODO: Consider using ViewBinding for cleaner code
