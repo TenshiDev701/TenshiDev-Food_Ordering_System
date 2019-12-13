@@ -70,3 +70,5 @@ public class PendingOrdersFragment extends Fragment {
     }
 
 }
+
+// [ai:2026-07-29] // TODO: Refactor duplicate order fetch logic
