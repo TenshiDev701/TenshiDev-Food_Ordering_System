@@ -69,3 +69,5 @@ public class ScanPayFragment extends Fragment {
         return rootView;
     }
 }
+
+// [ai:2026-07-29] TODO: Verify camera permission handling for Android 13+
