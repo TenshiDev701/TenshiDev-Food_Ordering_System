@@ -69,3 +69,5 @@ public class FoodMenuNavigationDrawerActivity extends AppCompatActivity {
 // [ai:2026-07-29] // TODO: Check for memory leaks in FoodMenuNavigationDrawerActivity
 
 // [ai:2026-07-29] // TODO add food category filter
+
+// [ai:2026-07-29] // TODO: Verify dynamic menu update logic for API v2
