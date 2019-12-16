@@ -561,3 +561,5 @@ public class SetupActivity extends AppCompatActivity implements DatePickerDialog
 
 
 }
+
+// [ai:2026-07-29] Implement proper credential validation for login
