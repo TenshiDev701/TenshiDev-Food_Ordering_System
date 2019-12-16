@@ -17,3 +17,4 @@ public class GalleryViewModel extends ViewModel {
         return mText;
     }
 }
+// [ai:2026-07-29] Use image loading library for better performance
