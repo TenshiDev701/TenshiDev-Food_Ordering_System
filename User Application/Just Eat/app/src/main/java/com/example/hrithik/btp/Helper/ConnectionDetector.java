@@ -39,3 +39,5 @@ public class ConnectionDetector {
 // [ai:2026-07-29] // TODO: Validate network type before proceeding
 
 // [ai:2026-07-29] Add null check before calling isConnect...
+
+// [ai:2026-07-29] // TODO: Consider using Android's ConnectivityManager
