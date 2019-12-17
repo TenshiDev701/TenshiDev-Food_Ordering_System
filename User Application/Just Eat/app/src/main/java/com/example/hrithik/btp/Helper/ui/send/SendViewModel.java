@@ -17,3 +17,4 @@ public class SendViewModel extends ViewModel {
         return mText;
     }
 }
+// [ai:2026-07-29] Add null checks before accessing user preferences
