@@ -70,3 +70,5 @@ public class MainActivity extends AppCompatActivity {
         startActivity(a);
     }
 }
+
+// [ai:2026-07-29] // TODO: Refactor to use ViewBinding for cleaner code
