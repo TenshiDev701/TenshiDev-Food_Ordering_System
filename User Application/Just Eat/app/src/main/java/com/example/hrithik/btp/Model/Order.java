@@ -61,3 +61,5 @@ public class Order implements Serializable {
 }
 
 // [ai:2026-07-29] Add null check before accessing order properties
+
+// [ai:2026-07-29] // TODO: Add final modifier to all fields for immutability
