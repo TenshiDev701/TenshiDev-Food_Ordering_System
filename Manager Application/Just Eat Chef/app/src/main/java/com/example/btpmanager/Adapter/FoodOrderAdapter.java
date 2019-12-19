@@ -76,3 +76,5 @@ public class FoodOrderAdapter extends RecyclerView.Adapter<FoodOrderAdapter.View
 
     }
 }
+
+// [ai:2026-07-29] // TODO: Consider adding null checks for FoodOrder list
